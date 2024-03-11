@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Renyun's academic personal website"
+title: "Renyun's personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,4 +15,4 @@ In NYU, I'm fortunate to be advised by advised by [Prof. Yao Wang](https://engin
 
 Due to the COVID-19 pandemic and visa-related complications, my academic journey took an unexpected gap year (20'-21'). I joined NXP Semiconductors as a Software Engineer Intern in Edge Processing team, working on AIoT and 3D Vision with Mingkai Hu. After that, I joined [Institute for Interdisciplinary Information Sciences, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) as a RA. Led by [Prof. Jianyu Chen](https://people.iiis.tsinghua.edu.cn/~jychen/), we worked on RL, POMDP, 3D Vision, and Autonomous Driving.
 
-Before that, I obtained my Bachelor degree in Optoelectronic Information Science and Engineering (under ECE) at Tianjin University. Collaborated with Prof. Tiegen Liu, Prof. Hai Pang and Prof. Shuang Wang, we worked on 3D point cloud and Optics. During my undergrad, I participated two papers published in SPIE and the Journal of Physics D: Applied Physics, secured five patents, and received 33 honors and awards, including 5 at national-level. You can find some of them here.
+Before that, I obtained my Bachelor degree in Optoelectronic Information Science and Engineering (under ECE) at Tianjin University. Collaborated with Prof. Tiegen Liu, Prof. Hai Pang and Prof. Shuang Wang, we worked on 3D point cloud and Optics. During my undergrad, I participated two papers published in SPIE and the Journal of Physics D: Applied Physics, secured five patents, and received 33 honors and awards, including 5 at national-level. You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20231128_PhD_Long)
