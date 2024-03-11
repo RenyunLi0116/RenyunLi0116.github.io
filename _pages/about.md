@@ -18,3 +18,5 @@ Due to the COVID-19 pandemic and visa-related complications, my academic journey
 Before that, I obtained my Bachelor degree in Optoelectronic Information Science and Engineering (under ECE) at Tianjin University. Collaborated with Prof. Tiegen Liu, Prof. Hai Pang and Prof. Shuang Wang, we worked on 3D point cloud and Optics. During my undergrad, I participated two papers published in SPIE and the Journal of Physics D: Applied Physics, secured five patents, and received 33 honors and awards, including 5 at national-level. 
 
 You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20231128_PhD_Long)
+
+Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/presentation/d/1Y2jo1OarH7z451LWjeZqZ1pHYrb_Negh6kLl9VnkESY/edit?usp=sharing)
