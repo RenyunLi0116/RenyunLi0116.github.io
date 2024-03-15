@@ -19,6 +19,8 @@ Before that, I obtained my Bachelor degree in Optoelectronic Information Science
 
 One fun fact here is that I had to finish 4 yrs credits requirement of ECE in 2 yrs due to inevitable mistake of department. Therefore, I earned 54.5 credits in Fall 2018 and 46 credits in Spring 2019, over 100 credits during my 3rd year of undergrad (including minor). This experience cultivated my multitasking abilities and nurtured my profound self-directed learning skills. These attributes now serve as invaluable assets in pursuing higher education, internships, and research.
 
+My email: rl4210 <at> nyu <dot> edu
+
 You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20231128_PhD_Long)
 
 Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/presentation/d/1Y2jo1OarH7z451LWjeZqZ1pHYrb_Negh6kLl9VnkESY/edit?usp=sharing)
