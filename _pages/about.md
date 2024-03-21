@@ -21,6 +21,6 @@ One fun fact here is that I had to finish 4 yrs credits requirement of ECE in 2 
 
 My email: rl4210 at nyu dot edu
 
-You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20231128_PhD_Long)
+You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20240314_AI_2)
 
 Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/presentation/d/1Y2jo1OarH7z451LWjeZqZ1pHYrb_Negh6kLl9VnkESY/edit?usp=sharing)
