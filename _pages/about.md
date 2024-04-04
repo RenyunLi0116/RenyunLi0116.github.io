@@ -16,7 +16,7 @@ Due to the COVID-19 pandemic, my academic journey took an unexpected gap year (2
 
 Before that, I obtained my Bachelor degree in Optoelectronic Information Science and Engineering at Tianjin University. Collaborated with Prof. Tiegen Liu, we worked on 3D point cloud and Optics. During my undergrad, I participated two papers published in SPIE and Applied Physics, five patents, and received 33 honors and awards, including 5 at national-level. 
 
-One fun fact here is that I had to finish 4 yrs credits requirement of ECE in 2 yrs due to inevitable mistake of department. Therefore, I earned 100.5 credits in my 3rd year of undergrad. This experience cultivated my multitasking abilities and nurtured my profound self-directed learning skills, which now serve as invaluable assets in pursuing higher education, internships, and research.
+One fun fact here is that I had to finish 4 yrs credits requirement of ECE in 2 yrs due to inevitable mistake of department. Therefore, I earned 100.5 credits during my 3rd year of undergrad. This experience cultivated my multitasking abilities and nurtured my profound self-directed learning skills, which now serve as invaluable assets in pursuing higher education, internships, and research.
 
 Apart from academics, I particularly enjoy outdoor sports such as hiking, kayaking, skiing, and regular workouts. My bench press, deadlift, and squat stand at 100kg, 160kg, and 180kg respectively. Aerobic exercises provide tranquility, while anaerobic workouts serve as a way to alleviate stress, offering a healthy outlet from academic demands. Additionally, my musical journey commenced with the melodies of the piano when I was 9 yrs old.
 
