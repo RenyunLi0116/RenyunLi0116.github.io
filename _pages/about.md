@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I'm Renyun Li (李仁赟/yūn/). My past research, internship, and education has intricately woven an electric and theoretical background, encompassing 3D Vision, segmentation, compression, and SLAM. Currently, I focus on 3D Vision, segmentation, reconstruction, and motion estimation.
+Welcome to my page! I'm Renyun Li (李仁赟/yūn/). My past research, internship, and education has intricately woven an electric and theoretical background, encompassing 3D Vision, segmentation, compression, and SLAM. 
 
 In NYU, I'm fortunate to be advised by advised by [Prof. Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) in [Video Lab](https://wp.nyu.edu/videolab/people/), working on 3D point cloud segmentation, motion estimation, and compressing. My graduate project is to design a PointNet-based model infused with motion estimation for human 3D point clouds segmentation, paving the way for the compression of 3D video based on this.
 
