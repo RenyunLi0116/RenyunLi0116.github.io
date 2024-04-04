@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I'm Renyun Li (李仁赟), Master student from NYU ECE. My past research, internship, and education has intricately woven an electric and theoretical background, encompassing 3D Vision, segmentation, compression, and SLAM.
-Currently, I focus on Image and Video Processing, 3D Vision, segmentation, reconstruction, motion estimation, and computational imaging.
+Welcome to my page! I'm Renyun Li (李仁赟), Master student from NYU ECE. My past research, internship, and education has intricately woven an electric and theoretical background, encompassing 3D Vision, segmentation, compression, and SLAM. Currently, I focus on 3D Vision, segmentation, reconstruction, and motion estimation.
 
 In NYU, I'm fortunate to be advised by advised by [Prof. Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) in [Video Lab](https://wp.nyu.edu/videolab/people/), working on 3D point cloud segmentation, motion estimation, and compressing. I also worked as a RA with [Prof. Siddharth Garg](https://engineering.nyu.edu/faculty/siddharth-garg) in [ENSURE RESEARCH GROUP](https://wp.nyu.edu/ensure_group/), TA of CS-GY 6953 Deep Learning, as well as instructor in the NYU STEM K12 bootcamp of ML.
 
