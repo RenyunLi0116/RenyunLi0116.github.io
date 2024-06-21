@@ -20,12 +20,9 @@ My email: rl4210 at nyu dot edu
 
 You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20240613_AI_v0.pdf)
 
-Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/presentation/d/1Y2jo1OarH7z451LWjeZqZ1pHYrb_Negh6kLl9VnkESY/edit?usp=sharing)
+Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/presentation/d/1Y2jo1OarH7z451LWjeZqZ1pHYrb_Negh6kLl9VnkESY/edit?usp=sharing)  
 
-<br>
------------------------------------------------------------------------------
-<br>
-<br>
+-----------------------------------------------------------------------------  
 
 Fun fact: I had to finish 4 yrs credits requirement of ECE in 2 yrs due to the inevitable mistake of the department. Therefore, I earned 100.5 credits during my 3rd year of undergrad. This experience cultivated my multitasking abilities and nurtured my profound self-learning skills, which now serve as invaluable assets in pursuing higher education, internships, and research.
 
