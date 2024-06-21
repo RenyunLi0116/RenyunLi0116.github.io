@@ -22,7 +22,6 @@ You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20240613
 
 Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/presentation/d/1Y2jo1OarH7z451LWjeZqZ1pHYrb_Negh6kLl9VnkESY/edit?usp=sharing)
 
-<br>
 -----------------------------------------------------------------------------
 <br>
 <br>
