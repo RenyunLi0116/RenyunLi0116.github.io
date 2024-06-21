@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Renyun Li"
 title_separator          : " "
-name                     : &name "Renyun Li 李仁赟(yūn)"
+name                     : &name "Renyun Li"
 description              : &description "personal description"
 url                      : https://renyunli0116.github.io # the base hostname & protocol for your site e.g. "https://renyunli0116.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Renyun Li"
+  name             : "Renyun Li 李仁赟/yūn/"
   avatar           : "RPI_1_resize.jpg"
   bio              : "Time"
   location         : "New York, NY, U.S"
