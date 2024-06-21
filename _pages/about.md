@@ -22,6 +22,6 @@ Apart from academics, I particularly enjoy outdoor sports such as hiking, kayaki
 
 My email: rl4210 at nyu dot edu
 
-You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20240314_AI_2.pdf)
+You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20240613_AI_v0_EN.pdf)
 
 Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/presentation/d/1Y2jo1OarH7z451LWjeZqZ1pHYrb_Negh6kLl9VnkESY/edit?usp=sharing)
