@@ -24,7 +24,7 @@ Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/prese
 
 
 
-
+// 
 
 Fun fact: I had to finish 4 yrs credits requirement of ECE in 2 yrs due to the inevitable mistake of the department. Therefore, I earned 100.5 credits during my 3rd year of undergrad. This experience cultivated my multitasking abilities and nurtured my profound self-learning skills, which now serve as invaluable assets in pursuing higher education, internships, and research.
 
