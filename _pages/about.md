@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I'm Renyun Li (李仁赟/yūn/). My past research, internship, and education have intricately woven an electric and theoretical background, encompassing 3D Vision, segmentation, compression, and SLAM. Currently, I'm working as a MLE at [Chinese Institute for Brain Research (CIBR)](https://www.cibr.ac.cn/about/generalization?language=en) with [Dr. Tatsuo Okubo](https://cibr.ac.cn/science/team/detail/975?language=en). Besides, I'm also the Co-Founder of [fAIshion](https://www.faishion.ai/).
+Hi there! Welcome to my page! I'm Renyun Li (李仁赟/yūn/). My past research, internship, and education have intricately woven an electric and theoretical background, encompassing 3D Vision, segmentation, compression, and SLAM. Currently, I'm working as a MLE at [Chinese Institute for Brain Research (CIBR)](https://www.cibr.ac.cn/about/generalization?language=en) with [Dr. Tatsuo Okubo](https://cibr.ac.cn/science/team/detail/975?language=en). Besides, I'm also the Co-Founder of [fAIshion](https://www.faishion.ai/).
 
 Before that, I got my M.S. degree in ECE from NYU. I was fortunate to be advised by advised by [Prof. Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) in [Video Lab](https://wp.nyu.edu/videolab/people/), working on 3D point cloud segmentation, motion estimation, and compressing. My graduate project is to design a PointNet-based model infused with motion estimation for human 3D point cloud segmentation, paving the way for the compression of 3D video based on this.
 
@@ -18,7 +18,7 @@ Before that, I obtained my Bachelor's degree in Optoelectronic Information Scien
 
 My email: rl4210 at nyu dot edu
 
-You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20240613_AI_v0.pdf)
+You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_202406704_AI_v0.pdf)
 
 Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/presentation/d/1Y2jo1OarH7z451LWjeZqZ1pHYrb_Negh6kLl9VnkESY/edit?usp=sharing)  
 
