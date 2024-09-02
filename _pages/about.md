@@ -20,7 +20,7 @@ Besides, I was the Co-Founder of [fAIshion](https://www.faishion.ai/),  MLE at [
 
 My email: rl4210 at nyu dot edu
 
-You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20240823_AI_v1.pdf)
+You can find my CV here: [Renyun's Curriculum Vitae](./assets/Renyun_Li_20240902_AI_v1.pdf)
 
 Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/presentation/d/1Y2jo1OarH7z451LWjeZqZ1pHYrb_Negh6kLl9VnkESY/edit?usp=sharing)  
 
