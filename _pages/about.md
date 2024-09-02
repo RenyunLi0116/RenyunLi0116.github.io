@@ -12,7 +12,7 @@ Hi there! Welcome to my page! I'm Renyun Li (李仁赟/yūn/), first-year Purdue
 
 Before that, I got my M.S. degree in ECE from NYU under the supervision of [Prof. Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) in [Video Lab](https://wp.nyu.edu/videolab/people/), working on 3D point cloud segmentation, motion estimation, and compressing. I obtained my Bachelor's degree in Optoelectronic Information Science and Engineering at Tianjin University. Fun fact: I had to finish 4 yrs credits requirement of ECE in 2 yrs due to the inevitable mistake of the department. Therefore, I earned 100.5 credits during my 3rd year of undergrad.
 
-Besides, I was the Co-Founder of [fAIshion](https://www.faishion.ai/), MLE at [Chinese Institute for Brain Research (CIBR)](https://www.cibr.ac.cn/about/generalization?language=en) with [Dr. Tatsuo Okubo](https://scholar.google.com/citations?user=EyyL1P0AAAAJ&hl=en), RA in [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) with [Prof. Jianyu Chen](https://people.iiis.tsinghua.edu.cn/~jychen/), Software Engineer Intern in NXP Semiconductors, 
+Besides, I was the Co-Founder of [fAIshion](https://www.faishion.ai/), MLE at [Chinese Institute for Brain Research (CIBR)](https://www.cibr.ac.cn/about/generalization?language=en) with [Dr. Tatsuo Okubo](https://scholar.google.com/citations?user=EyyL1P0AAAAJ&hl=en), RA in [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) with [Prof. Jianyu Chen](https://people.iiis.tsinghua.edu.cn/~jychen/), Software Engineer Intern in NXP Semiconductors.
 
 
 My email: rl4210 at nyu dot edu
