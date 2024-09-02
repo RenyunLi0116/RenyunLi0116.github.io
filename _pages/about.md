@@ -14,7 +14,8 @@ Before that, I got my M.S. degree in ECE from NYU under the supervision of [Prof
 
 Fun fact: Interestingly, due to an administrative error, I was required to complete four years' worth of ECE credits in only two years, leading me to earn 100.5 credits during my third year of undergrad.
 
-Besides, I was the Co-Founder of [fAIshion](https://www.faishion.ai/), MLE at [Chinese Institute for Brain Research (CIBR)](https://www.cibr.ac.cn/about/generalization?language=en) with [Dr. Tatsuo Okubo](https://scholar.google.com/citations?user=EyyL1P0AAAAJ&hl=en), RA in [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) with [Prof. Jianyu Chen](https://people.iiis.tsinghua.edu.cn/~jychen/), Software Engineer Intern in NXP Semiconductors.
+Besides, I was the Co-Founder of [fAIshion](https://www.faishion.ai/),  MLE at [Chinese Institute for Brain Research (CIBR)](https://www.cibr.ac.cn/about/generalization?language=en) with [Dr. Tatsuo Okubo](https://scholar.google.com/citations?user=EyyL1P0AAAAJ&hl=en),  RA in [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) with [Prof. Jianyu Chen](https://people.iiis.tsinghua.edu.cn/~jychen/), 
+ Software Engineer Intern in NXP Semiconductors.
 
 
 My email: rl4210 at nyu dot edu
