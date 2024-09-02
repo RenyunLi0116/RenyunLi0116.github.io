@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Renyun Li's personal website"
+title: "Renyun Li's (李仁赟/yūn/) personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
