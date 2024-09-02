@@ -28,6 +28,6 @@ Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/prese
   
 Fun fact: I had to finish 4 yrs credits requirement of ECE in 2 yrs due to the inevitable mistake of the department. Therefore, I earned 100.5 credits during my 3rd year of undergrad. This experience cultivated my multitasking abilities and nurtured my profound self-learning skills, which now serve as invaluable assets in pursuing higher education, internships, and research.
 
-Spare time: Apart from academics, I particularly enjoy outdoor sports such as hiking, kayaking, skiing, and regular workouts. My bench press, deadlift, and squat stand at 100kg, 160kg, and 180kg respectively. Aerobic exercises provide tranquility, while anaerobic workouts serve as a way to alleviate stress, offering a healthy outlet from academic demands. Additionally, my musical journey commenced with the melodies of the piano when I was 9 years old.
+Spare time: Apart from academics, I particularly enjoy outdoor sports such as hiking, kayaking, skiing, and regular workouts. My bench press, deadlift, squat = 100kg, 160kg, 150kg. Aerobic exercises provide tranquility, while anaerobic workouts serve as a way to alleviate stress, offering a healthy outlet from academic demands. Additionally, my musical journey commenced with the melodies of the piano when I was 9 years old.
 
 
