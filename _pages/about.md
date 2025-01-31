@@ -18,7 +18,7 @@ Besides, I was the Co-Founder of [fAIshion](https://www.faishion.ai/),  MLE at [
  Software Engineer Intern in NXP Semiconductors.
 
 
-My email: rl4210 at nyu dot edu
+My email: li5329 at purdue dot edu
 
 You can find my CV here: [Renyun's Resume](./assets/Renyun_Li_20250116_AI_v1.pdf)
 
