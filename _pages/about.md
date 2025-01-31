@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I'm Renyun Li (李仁赟/yūn/), first-year Purdue ECE PhD student, focusing on 3D Vision, reconstruction, segmentation, and motion estimation.
+Welcome to my page! I'm Renyun Li (李仁赟/yūn/), first-year Purdue ECE PhD student, focusing on 3D Vision, reconstruction, segmentation, and motion estimation. Besides, I'm the Co-Founder of [fAIshion](https://www.faishion.ai/).
 
 Before that, I got my M.S. degree in ECE from NYU under the supervision of [Prof. Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) in [Video Lab](https://wp.nyu.edu/videolab/people/), working on 3D point cloud segmentation, motion estimation, and compressing. I obtained my Bachelor's degree in Optoelectronic Information Science and Engineering at Tianjin University. 
 
 Fun fact: Interestingly, due to an administrative error, I was required to complete four years' worth of ECE credits in only two years, leading me to earn 100.5 credits during my third year of undergrad.
 
-Besides, I was the Co-Founder of [fAIshion](https://www.faishion.ai/),  MLE at [Chinese Institute for Brain Research (CIBR)](https://www.cibr.ac.cn/about/generalization?language=en) with [Dr. Tatsuo Okubo](https://scholar.google.com/citations?user=EyyL1P0AAAAJ&hl=en),  RA in [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) with [Prof. Jianyu Chen](https://people.iiis.tsinghua.edu.cn/~jychen/), 
- Software Engineer Intern in NXP Semiconductors.
+In addition, I was MLE at [Chinese Institute for Brain Research (CIBR)](https://www.cibr.ac.cn/about/generalization?language=en) with [Dr. Tatsuo Okubo](https://scholar.google.com/citations?user=EyyL1P0AAAAJ&hl=en),  RA in [IIIS, Tsinghua University](https://iiis.tsinghua.edu.cn/en/) with [Prof. Jianyu Chen](https://people.iiis.tsinghua.edu.cn/~jychen/), 
+ Software Engineer Intern in NXP Semiconductors, RA in [EIC Lab, GaTech](https://eiclab.scs.gatech.edu/).
 
 
 My email: li5329 at purdue dot edu
