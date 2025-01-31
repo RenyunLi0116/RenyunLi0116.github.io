@@ -28,7 +28,7 @@ Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/prese
 -----------------------------------------------------------------------------  
 
 
-Apart from academics, I particularly enjoy outdoor sports such as hiking, kayaking, skiing, and regular workouts. My bench press, deadlift, squat = 100kg, 160kg, 150kg. Aerobic exercises provide tranquility, while anaerobic workouts serve as a way to alleviate stress, offering a healthy outlet from academic demands. Additionally, my musical journey commenced with the melodies of the piano when I was 9 years old.
-
-
+Apart from academics, I particularly enjoy outdoor sports such as hiking, kayaking, skiing, and regular workouts. My bench press, deadlift, squat = 100kg, 160kg, 150kg. Aerobic exercises provide tranquility, while anaerobic workouts serve as a way to alleviate stress, offering a healthy outlet from academic demands. Additionally, my musical journey commenced with the melodies of the piano when I was 9 years old.  
+  
+  
 Last update: 01/31/2025
