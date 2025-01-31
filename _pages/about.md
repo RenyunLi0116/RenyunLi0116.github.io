@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I'm Renyun Li (李仁赟/yūn/), first-year Purdue ECE PhD student, focusing on 3D Vision, reconstruction, segmentation, and motion estimation. Besides, I'm the Co-Founder of [fAIshion](https://www.faishion.ai/).
+Welcome to my page! I'm Renyun Li (李仁赟/yūn/), first-year Purdue ECE PhD student, focusing on 3D Vision, reconstruction, segmentation, and motion estimation. Besides, I'm the co-founder of [fAIshion](https://www.faishion.ai/), which aims to instant try-on with the diffusion model and 3D reconstrucion.
 
 Before that, I got my M.S. degree in ECE from NYU under the supervision of [Prof. Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) in [Video Lab](https://wp.nyu.edu/videolab/people/), working on 3D point cloud segmentation, motion estimation, and compressing. I obtained my Bachelor's degree in Optoelectronic Information Science and Engineering at Tianjin University. 
 
