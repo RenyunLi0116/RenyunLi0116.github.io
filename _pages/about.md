@@ -20,7 +20,7 @@ In addition, I was MLE at [Chinese Institute for Brain Research (CIBR)](https://
 
 My email: li5329 at purdue dot edu
 
-You can find my CV here: [Renyun's Resume](./assets/Renyun_Li_20250116_AI_v1.pdf)
+You can find my CV here: [Renyun's Resume](./assets/Renyun_Li_20250428_AI_v0.pdf)
 
 Here is a self-intro slides: [Renyun's self-intro](https://docs.google.com/presentation/d/1Y2jo1OarH7z451LWjeZqZ1pHYrb_Negh6kLl9VnkESY/edit?usp=sharing)  
 
